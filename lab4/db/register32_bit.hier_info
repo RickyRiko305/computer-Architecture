@@ -1,0 +1,74 @@
+|lab4
+q[0] <= counter8:inst.q[0]
+q[1] <= counter8:inst.q[1]
+q[2] <= counter8:inst.q[2]
+q[3] <= counter8:inst.q[3]
+q[4] <= counter8:inst.q[4]
+q[5] <= counter8:inst.q[5]
+q[6] <= counter8:inst.q[6]
+q[7] <= counter8:inst.q[7]
+ld => counter8:inst.ld
+clr => counter8:inst.clr
+clk => counter8:inst.clk
+inc => counter8:inst.inc
+d[0] => counter8:inst.d[0]
+d[1] => counter8:inst.d[1]
+d[2] => counter8:inst.d[2]
+d[3] => counter8:inst.d[3]
+d[4] => counter8:inst.d[4]
+d[5] => counter8:inst.d[5]
+d[6] => counter8:inst.d[6]
+d[7] => counter8:inst.d[7]
+
+
+|lab4|counter8:inst
+d[0] => q.DATAB
+d[1] => q.DATAB
+d[2] => q.DATAB
+d[3] => q.DATAB
+d[4] => q.DATAB
+d[5] => q.DATAB
+d[6] => q.DATAB
+d[7] => q.DATAB
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+ld => q.OUTPUTSELECT
+clr => q[0]~reg0.ACLR
+clr => q[1]~reg0.ACLR
+clr => q[2]~reg0.ACLR
+clr => q[3]~reg0.ACLR
+clr => q[4]~reg0.ACLR
+clr => q[5]~reg0.ACLR
+clr => q[6]~reg0.ACLR
+clr => q[7]~reg0.ACLR
+clk => q[0]~reg0.CLK
+clk => q[1]~reg0.CLK
+clk => q[2]~reg0.CLK
+clk => q[3]~reg0.CLK
+clk => q[4]~reg0.CLK
+clk => q[5]~reg0.CLK
+clk => q[6]~reg0.CLK
+clk => q[7]~reg0.CLK
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+inc => q.OUTPUTSELECT
+q[0] <> q[0]~reg0
+q[1] <> q[1]~reg0
+q[2] <> q[2]~reg0
+q[3] <> q[3]~reg0
+q[4] <> q[4]~reg0
+q[5] <> q[5]~reg0
+q[6] <> q[6]~reg0
+q[7] <> q[7]~reg0
+
+
