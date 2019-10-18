@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\lab5\simulation\qsim
+vALU32
+Z1 I@N]J]WXCJh^:fndCTN]bU0
+Z2 Va^ClSJ[AIB`fjKezA2Gef0
+Z3 dC:\altera\lab5\simulation\qsim
+Z4 w1567508062
+Z5 8lab_5_alu.vo
+Z6 Flab_5_alu.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|lab_5_alu.vo|
+Z9 o-work work -O0
+Z10 n@a@l@u32
+!i10b 1
+Z11 !s100 cK8cAhj5::hd:QCnXhHUM2
+!s85 0
+Z12 !s108 1567508063.422000
+Z13 !s107 lab_5_alu.vo|
+!s101 -O0
+vALU32_vlg_check_tst
+!i10b 1
+Z14 !s100 P?9@LkXL6U1CjNEF8:[f>2
+Z15 I9ENAJ<^XeVoNcdmRO8C^A0
+Z16 VRC]A0fX8aloNzI4h>a>`Y3
+R3
+Z17 w1567508061
+Z18 8lab_5_alu.vt
+Z19 Flab_5_alu.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1567508063.751000
+Z21 !s107 lab_5_alu.vt|
+Z22 !s90 -work|work|lab_5_alu.vt|
+!s101 -O0
+R9
+Z23 n@a@l@u32_vlg_check_tst
+vALU32_vlg_sample_tst
+!i10b 1
+Z24 !s100 0ee?QEjz=[Mlid@fOd7>@3
+Z25 I3OV4U?ZNSh7o1O^T_iGD^2
+Z26 Vb>b]<^kB4`_57B9c@UjL<2
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@a@l@u32_vlg_sample_tst
+vALU32_vlg_vec_tst
+!i10b 1
+!s100 3bcRMY?VnWO^jQPjVZm5g2
+I=8JgYXIZm^R<Y]773[RS@3
+Z28 VNDQ[l1m3PN1DobRMz8b@k2
+R3
+R17
+R18
+R19
+Z29 L0 713
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z30 n@a@l@u32_vlg_vec_tst
+vALU_32_bit
+Z31 IQ0L]@h`MjJZA3bRf3ToJz2
+Z32 V^bjV^?5oP@nO?6^FV2Jdj3
+R3
+Z33 w1567507234
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z34 n@a@l@u_32_bit
+Z35 !s100 KoO<Flo_k<Nc;J=md@HYa3
+Z36 !s108 1567507235.472000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_32_bit_vlg_check_tst
+Z37 !s100 J9b17zF=X=_8F5EO;ei=U0
+Z38 IRAnVUNm31`mUD<N`4SzH42
+Z39 Vc7H78ae4bh7Sf85_TMTBQ2
+R3
+Z40 w1567507233
+R18
+R19
+L0 61
+R7
+r1
+31
+Z41 !s108 1567507235.741000
+Z42 !s107 lab_5_alu.vt|
+R22
+R9
+Z43 n@a@l@u_32_bit_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_32_bit_vlg_sample_tst
+Z44 !s100 K[jgOAfkKM59gz8Ql5V3O2
+Z45 I2[V^kGO>`7Ce[4`OU7TQa1
+Z46 VIZ?V_;<AdAiklVmfgB:5f0
+R3
+R40
+R18
+R19
+L0 29
+R7
+r1
+31
+R41
+R42
+R22
+R9
+Z47 n@a@l@u_32_bit_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vALU_32_bit_vlg_vec_tst
+Z48 IjWTJNGd?RIE6;8<Qkz51a3
+Z49 VQWccjT4WRNOIzQbX=1Z_[3
+R3
+R40
+R18
+R19
+R29
+R7
+r1
+31
+R41
+R42
+R22
+R9
+Z50 n@a@l@u_32_bit_vlg_vec_tst
+Z51 !s100 JTEo8:V]jRQ1N^I>oNk]O3
+!i10b 1
+!s85 0
+!s101 -O0
